@@ -1,0 +1,10 @@
+D:\C Sharp\DeThiHK1_2023\DeThiHK1_2023\bin\Debug\DeThiHK1_2023.exe.config
+D:\C Sharp\DeThiHK1_2023\DeThiHK1_2023\bin\Debug\DeThiHK1_2023.exe
+D:\C Sharp\DeThiHK1_2023\DeThiHK1_2023\bin\Debug\DeThiHK1_2023.pdb
+D:\C Sharp\DeThiHK1_2023\DeThiHK1_2023\obj\Debug\DeThiHK1_2023.csproj.AssemblyReference.cache
+D:\C Sharp\DeThiHK1_2023\DeThiHK1_2023\obj\Debug\DeThiHK1_2023.Form1.resources
+D:\C Sharp\DeThiHK1_2023\DeThiHK1_2023\obj\Debug\DeThiHK1_2023.Properties.Resources.resources
+D:\C Sharp\DeThiHK1_2023\DeThiHK1_2023\obj\Debug\DeThiHK1_2023.csproj.GenerateResource.cache
+D:\C Sharp\DeThiHK1_2023\DeThiHK1_2023\obj\Debug\DeThiHK1_2023.csproj.CoreCompileInputs.cache
+D:\C Sharp\DeThiHK1_2023\DeThiHK1_2023\obj\Debug\DeThiHK1_2023.exe
+D:\C Sharp\DeThiHK1_2023\DeThiHK1_2023\obj\Debug\DeThiHK1_2023.pdb
